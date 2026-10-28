@@ -1,0 +1,6 @@
+{
+  "name": "Hive — Agency OS",
+  "description": "Autonomous agency operating system with multi-agent orchestration, manager chat routing, real-time task dispatch, verified payments ledger, and operational metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
